@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple project for my portfolio, and my portfolio!<br>🌱 I’m currently learning HTML, CSS and JS for web development<br>💬 Ask me about games, football and anime!<br>⚡ Fun fact I like cereal
+🔭 I’m currently working on multiple projects for my portfolio, and my portfolio!<br>🌱 I’m currently learning HTML, CSS and JS for web development<br>💬 Ask me about games, football and anime!<br>⚡ Fun fact I like cereal
 
 
 ## 🌐 Socials:
