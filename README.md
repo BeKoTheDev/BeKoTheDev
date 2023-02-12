@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-I don't really use my socials, maybe in the future i will add more! For now i only have my discord which you can contact me at: 
+I don't really use my socials, maybe in the future i will add more! For now i only have my discord which you can contact me at: 𝐆𝐡𝐨𝐬𝐭#1620
 
-Ik gebruik mijn socials niet echt, misschien voeg ik er in de toekomst meer toe! Voor nu heb ik alleen mijn discord of email waar je contact mee kunt opnemen:
+Ik gebruik mijn socials niet echt, misschien voeg ik er in de toekomst meer toe! Voor nu heb ik alleen mijn discord waar je contact mee kunt opnemen:𝐆𝐡𝐨𝐬𝐭#1620
 # 💻 Talen/Technieken waarmee ik werk/mee gewerkt heb:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
