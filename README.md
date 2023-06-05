@@ -1,3 +1,4 @@
+![Masterhead](https://i.imgur.com/FiRVwhO.png)]
 <h1 align="center">Hi 👋, I'm Berat</h1>
 <h3 align="center">Een developer geïnteresseerd in front-end/webdevelopment.</h3>
 
