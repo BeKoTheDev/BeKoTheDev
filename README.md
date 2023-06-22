@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/a/uBkS4en)
+[![MasterHead](https://imgur.com/a/uBkS4en)]
 <h1 align="center">Hoi 👋, Ik ben Berat</h1>
 <h3 align="center">Een developer geïnteresseerd in front-end/webdevelopment.</h3>
 
